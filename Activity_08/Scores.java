@@ -1,6 +1,6 @@
 /**
 This activity will test out properties of Arrays
-throught a scores class and its methods.
+through a scores class and its methods.
 @author Chandler Dykes
 @version 03/23/2021
 Activity 08

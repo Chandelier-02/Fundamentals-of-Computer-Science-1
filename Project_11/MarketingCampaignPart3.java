@@ -23,7 +23,7 @@ public class MarketingCampaignPart3
       
       try
       {
-         MarketingCampaignListEdited myList = new MarketingCampaignListEdited();
+         MarketingCampaignList myList = new MarketingCampaignList();
          myList.readFile(args[0]);
          System.out.println(myList.generateReport());
          //System.out.println();

@@ -5,7 +5,7 @@ to the items list and printing the toString methods.
 @version 04/06/2021
 */
 
-public clas s InventoryListApp
+public class InventoryListApp
 {
    /**
    Creates items and adds them to a list and then prints the items list object.

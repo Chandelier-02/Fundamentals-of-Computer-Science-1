@@ -36,7 +36,7 @@ public class SolveIt
       //Gets the divisor
       divisor = (Math.abs(2 * x) + 4);
       
-      //Finds the resutl
+      //Finds the result
       result = (expression + determinant) / (divisor);
       
       System.out.println("Result: " + result);
@@ -51,7 +51,7 @@ public class SolveIt
       int endIndex = amount - numLeft;
       int numRight = numbers.length() - index - 1;
       
-      //Formates the output
+      //Formats the output
       DecimalFormat outPut = new DecimalFormat("#,##0.0##");
       
       //Prints the results
